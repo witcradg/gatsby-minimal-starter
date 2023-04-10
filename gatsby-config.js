@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `Gatsby Minimal Starter`,
-    description: `Assumes nothing but Gatsby built-ins`,
+    description: `Assumes almost nothing but Gatsby`,
     author: `@witcradg`,
     siteUrl: `https://witcraft.io`,
   },
